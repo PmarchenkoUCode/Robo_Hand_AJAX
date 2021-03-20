@@ -1,3 +1,3 @@
 # Robo_Hand_AJAX
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fk4lUBzUWAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video](https://www.youtube.com/embed/fk4lUBzUWAA)
